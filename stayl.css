@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: system-ui, sans-serif;
+}
+span, a, label {
+    display: inline-block;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.title {
+    width: 350px;
+    padding: 15px 24px;
+    margin-bottom: 10px;
+    transition: calc(3s);
+}
+.btn {
+    border: none;
+    background-color: gray;
+    color: lime;
+    font-size: 24px;
+    padding: 7px 16px;
+    cursor: pointer;
+    transition: calc(1s);
+
+}
+.lit{
+    width: 250px;
+    translate: -15rem;
+    transition: calc(2s);
+    border-radius: 30px;
+    box-shadow: 10px 15px 5px green;    
+
+}
+.hi{
+    padding: 30px;
+    transition: calc(2s);
+
+}
+.hinew{
+    color: red;
+    transition: calc(3s);
+    translate: -15rem;
+}
+.bt{
+    border: none;
+    background-color: gray;
+    color: lime;
+    font-size: 24px;
+    padding: 7px 16px;
+    cursor: pointer; 
+}
+.big{
+    padding: 25px;
+    text-align: right;
+    background-color: aqua;
+    height: 500px;
+}
+.bignew{
+    background-color: yellow;
+}
+.bu{
+    background-color: black;
+}
+.buti{
+    background-color: black;
+}
